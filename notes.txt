@@ -1,0 +1,13 @@
+Mis en place de l'architecture MVC
+Début du CRUD sachant que Read est déja bon
+CRUD validé
+
+A faire :
+    voir pour changer le style du onSubmit
+    mieux protéger, ex: si on ne met rien dans l'ajout cela marche qd même --> pas normal
+    se cultiver sur l'orientée objet
+
+    pq pas un projet symfony (comme Angular)
+
+
+API : openfoodfact api : https://world.openfoodfacts.org/api/v0/product/737628064502
